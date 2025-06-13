@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nataniel Kaczmarczyk</h1>
-<h3 align="center">Frontend Developer from Poland</h3>
+<h3 align="center">Programmer from Poland</h3>
 
 <h3 align="center"> Portfolio: https://natanielnat.github.io/homepage_2.0/ </h3>
 
